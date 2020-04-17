@@ -1,0 +1,136 @@
+.navbar {
+  box-shadow: 2px 2px 5px #000;
+  opacity: 0.9;
+}
+
+.navbar .nav-item .nav-link {
+  color: #fff;
+}
+
+.main-header {
+  position: relative;
+  
+  background-size: cover;
+  min-height: 500px;
+}
+
+.background-overlay {
+  background: rgb(255, 255, 255);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.rolando{
+
+  font-size: 30px;
+  color: rgb(50, 240, 33);
+}
+
+
+.form-control, .btn{
+  border-radius: 0;
+}
+
+.team, footer {
+  background: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+
+h1 {
+  font-weight: normal;
+  
+}
+
+li {
+  display: inline-block;
+  font-size: 1.5em;
+  list-style-type: none;
+  padding: 1em;
+  text-transform: uppercase;
+ 
+}
+
+li span {
+  display: block;
+  font-size: 40px;
+  color: rgb(255, 226, 6);
+  position: relative;
+  top: -10px;
+}
+
+.display-7 {
+
+  color: rgb(255, 255, 255);
+  margin: 0 auto;
+  padding: 30px;
+  text-align: center;
+  font-size: 16px;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-color: black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: block;
+  font-family: -apple-system, 
+    BlinkMacSystemFont, 
+    "Segoe UI", 
+    Roboto, 
+    Oxygen-Sans, 
+    Ubuntu, 
+    Cantarell, 
+    "Helvetica Neue", 
+    sans-serif;
+    width: 800px;
+    height: 200px;
+    position: relative;
+    top: -30px;
+    border-radius: 20px;
+    
+    
+}
+
+.display-6{
+  position: relative;
+  top: -10px;
+  font-size: 20px;;
+}
+
+.leo {
+position: relative;
+
+top: -20px;;
+
+}
+
+.perro{
+  font-size: 8px;
+}
+
+
+.rut{
+  position: relative;
+  top: -20px;
+  
+}
+
+.fab {
+
+  color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin: 0 10px;
+}
+
+.lujo {
+  
+  font-size: 8px;
+  color: black;
+}
